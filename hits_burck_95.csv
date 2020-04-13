@@ -1,0 +1,52 @@
+,Name,Protein_Classification,as.character(comp),smiles
+1005,Nuclear factor NF-kappa-B p100/p49 subunits,Other,Compound19,O=C(/C=C/C1=CC=CC=C1)C2=CC=CC=C2
+1102,Monoamine oxidase B,Oxidoreductases,Compound19,O=C(/C=C/C1=CC=CC=C1)C2=CC=CC=C2
+211,Serotonin 2a (5-HT2a) receptor,GPCR,Compound246,COC1=CC=C(C2=C1)NC=C2CCN
+382,Serotonin 1d (5-HT1d) receptor,GPCR,Compound246,COC1=CC=C(C2=C1)NC=C2CCN
+395,Serotonin 1b (5-HT1b) receptor,GPCR,Compound246,COC1=CC=C(C2=C1)NC=C2CCN
+461,Serotonin 1a (5-HT1a) receptor,GPCR,Compound246,COC1=CC=C(C2=C1)NC=C2CCN
+483,Serotonin 6 (5-HT6) receptor,GPCR,Compound246,COC1=CC=C(C2=C1)NC=C2CCN
+977,Protein-tyrosine phosphatase 1B,Phosphatase,Compound256,O=C(O)[C@@]54[C@H](/C3=C/C[C@H]1[C@](CC[C@@H]2[C@]1(C)CC[C@H](O)C2(C)C)(C)[C@]3(C)CC4)[C@@H](C)[C@H](C)CC5
+1412,Leukotriene A4 hydrolase,Protease,Compound402,NC(C(O)=O)CC(C=C1)=CC=C1OCC2=CC=CC=C2
+908,D-amino-acid oxidase,Oxidoreductases,Compound449,O=C1C(O)=COC(CC2=CC=CC=C2)=C1
+800,Kinesin-like protein 1,Other,Compound524,NC(C(O)=O)CSC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+8001,Kinesin-like protein 1,Other,Compound546,NC(C(O)=O)CSC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+701,Monoamine oxidase A,Oxidoreductases,Compound581,O=C1CCCC2=CC(OC)=CC=C21
+1076,Steroid 5-alpha-reductase 2,Oxidoreductases,Compound602,O=C1CCC2(C(C1C)CCC3C2CCC4(C3CCC4C(C)CCCC(C)C)C)C
+537,Dynamin-1,Hydrolases,Compound691,CCCCCCCCCCCCCCCCC
+8002,Kinesin-like protein 1,Other,Compound739,NC(C(O)=O)CSC(C1=CC=CC=C1)(C2=CC=CC=C2)C3=CC=CC=C3
+11021,Monoamine oxidase B,Oxidoreductases,Compound863,OC1=CC=C(C=C1)/C=C/C(C2=CC(O)=CC=C2O)=O
+135,Mu opioid receptor,GPCR,Compound927,OC1=C2O[C@@H]3[C@@]45C2=C(C[C@H]([C@@]5(C=C[C@@H]3O)[H])N(C)CC4)C=C1.[H]Cl
+1191,Delta opioid receptor,GPCR,Compound927,OC1=C2O[C@@H]3[C@@]45C2=C(C[C@H]([C@@]5(C=C[C@@H]3O)[H])N(C)CC4)C=C1.[H]Cl
+1526,Kappa opioid receptor,GPCR,Compound927,OC1=C2O[C@@H]3[C@@]45C2=C(C[C@H]([C@@]5(C=C[C@@H]3O)[H])N(C)CC4)C=C1.[H]Cl
+1148,Transketolase,Transferases,Compound992,OCCC1=C([N+](CC2=CN=C(N=C2N)C)=CS1)C.[Cl-]
+7011,Monoamine oxidase A,Oxidoreductases,Compound1066,O=C1CCCCC2=CC(OC)=CC=C21
+11022,Monoamine oxidase B,Oxidoreductases,Compound1067,OC1=CC=C(C=C1)/C=C/C(C2=C(C=CC(O)=C2)O)=O
+145,Sigma opioid receptor,Transporter,Compound1097,O=C(CCN1CCCC1)C2=CC=CC=C2.[H]Cl
+1351,Mu opioid receptor,GPCR,Compound1117,CN(C)C(C(C1=CC=CC=C1)(CCN2CCC(C3=CC=C(Cl)C=C3)(O)CC2)C4=CC=CC=C4)=O.[H]Cl
+1574,Nociceptin receptor,GPCR,Compound1117,CN(C)C(C(C1=CC=CC=C1)(CCN2CCC(C3=CC=C(Cl)C=C3)(O)CC2)C4=CC=CC=C4)=O.[H]Cl
+1410,Muscarinic acetylcholine receptor M2,GPCR,Compound1119,OCC(C(OC1CC2CCC(C1)N2C)=O)C3=CC=CC=C3.O=S(O)(O)=O
+1515,Muscarinic acetylcholine receptor M3,GPCR,Compound1119,OCC(C(OC1CC2CCC(C1)N2C)=O)C3=CC=CC=C3.O=S(O)(O)=O
+1107,Purine nucleoside phosphorylase,Transferases,Compound1126,NC(NC1=C2N=CN1COCC[O-])=NC2=O.[Na+]
+41,Aldo-keto-reductase family 1 member C3,Oxidoreductases,Compound1129,CC1=C(C2=C(N1C(C3=CC=C(Cl)C=C3)=O)C=CC(OC)=C2)CC(O)=O
+456,Cyclooxygenase-2,Oxidoreductases,Compound1129,CC1=C(C2=C(N1C(C3=CC=C(Cl)C=C3)=O)C=CC(OC)=C2)CC(O)=O
+563,Equilibrative nucleoside transporter 1,Transporter,Compound1132,OCCN(C1=NC2=C(N3CCCCC3)N=C(N(CCO)CCO)N=C2C(N4CCCCC4)=N1)CCO
+660,Cytochrome P450 2D6,Oxidoreductases,Compound1152,CN(CCCN1C2=CC=CC=C2SC3=CC=C(Cl)C=C31)C.[H]Cl
+1189,Angiotensin-converting enzyme,Protease,Compound1154,C[C@@H](C(N1CCC[C@H]1C(O)=O)=O)CS
+1451,Sigma opioid receptor,Transporter,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+204,Dopamine D2 receptor,GPCR,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+2111,Serotonin 2a (5-HT2a) receptor,GPCR,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+882,Histamine H1 receptor,GPCR,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+1437,Dopamine D4 receptor,GPCR,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+1594,Dopamine D3 receptor,GPCR,Compound1155,OC1(CCN(CCCC(C2=CC=C(F)C=C2)=O)CC1)C3=CC=C(Cl)C=C3
+612,Beta-3 adrenergic receptor,GPCR,Compound1159,CC(C)NCC(O)C1=CC(O)=C(C=C1)O.O=S(O)(O)=O
+1553,Beta-2 adrenergic receptor,GPCR,Compound1159,CC(C)NCC(O)C1=CC(O)=C(C=C1)O.O=S(O)(O)=O
+1400,Interleukin-8,Other,Compound1162,[O-]C(CC1=C(NC2=C(Cl)C=CC=C2Cl)C=CC=C1)=O.[Na+]
+2112,Serotonin 2a (5-HT2a) receptor,GPCR,Compound1166,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C13.[H]Cl
+711,Serotonin transporter,Transporter,Compound1166,CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C13.[H]Cl
+1511,Nischarin,Other,Compound1167,ClC1=CC=CC(Cl)=C1NC2=NCCN2.[H]Cl
+273,Carbonic anhydrase I,Lyases,Compound1190,NS(=O)(C1=C(C=C2NCNS(=O)(C2=C1)=O)Cl)=O
+502,Estrogen receptor beta,NHR,Compound1192,OC1=CC2=C([C@]3(CC[C@@]4([C@H](CC[C@]4([C@@]3(CC2)[H])[H])O)C)[H])C=C1
+1161,Steryl-sulfatase,Hydrolases,Compound1192,OC1=CC2=C([C@]3(CC[C@@]4([C@H](CC[C@]4([C@@]3(CC2)[H])[H])O)C)[H])C=C1
+10051,Nuclear factor NF-kappa-B p100/p49 subunits,Other,Compound1318,C1(C2=CC=CC=C2)=NN=C(O1)C3=CC=CC=C3
+11023,Monoamine oxidase B,Oxidoreductases,Compound1489,CC1=CC=C(C2=C1)NC(C2=O)=O
